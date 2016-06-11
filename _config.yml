@@ -1,0 +1,2 @@
+baseurl: /bk20something
+exclude: ['README.md']
